@@ -1,0 +1,12 @@
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabaseProgram/DatabaseProgram/bin/Debug/net7.0/DatabaseProgram.deps.json
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabaseProgram/DatabaseProgram/bin/Debug/net7.0/DatabaseProgram.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabaseProgram/DatabaseProgram/bin/Debug/net7.0/DatabaseProgram.pdb
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabaseProgram/DatabaseProgram/obj/Debug/net7.0/DatabaseProgram.csproj.AssemblyReference.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabaseProgram/DatabaseProgram/obj/Debug/net7.0/DatabaseProgram.GeneratedMSBuildEditorConfig.editorconfig
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabaseProgram/DatabaseProgram/obj/Debug/net7.0/DatabaseProgram.AssemblyInfoInputs.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabaseProgram/DatabaseProgram/obj/Debug/net7.0/DatabaseProgram.AssemblyInfo.cs
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabaseProgram/DatabaseProgram/obj/Debug/net7.0/DatabaseProgram.csproj.CoreCompileInputs.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabaseProgram/DatabaseProgram/obj/Debug/net7.0/DatabaseProgram.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabaseProgram/DatabaseProgram/obj/Debug/net7.0/refint/DatabaseProgram.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabaseProgram/DatabaseProgram/obj/Debug/net7.0/DatabaseProgram.pdb
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabaseProgram/DatabaseProgram/obj/Debug/net7.0/ref/DatabaseProgram.dll
